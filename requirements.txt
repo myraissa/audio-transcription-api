@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Werkzeug
+ffmpeg-python
+langdetect
+SpeechRecognition
+pytest
+requests
+requests-mock
+pydub
